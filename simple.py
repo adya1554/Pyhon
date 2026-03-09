@@ -10,4 +10,4 @@ sum_result = a + b
 
 print("The sum of", a, "and", b, "is:", sum_result)
 
-print('this is the simple and practice porpose written program')
+# print('this is the simple and practice porpose written program ')
