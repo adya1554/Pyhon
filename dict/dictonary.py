@@ -7,4 +7,6 @@ d = {
     'manoj': 'pass'
 }
 print (d)
-
+d['Akshay'] = 'fail'
+d['Sachin'] = 'pass'
+print(d)
