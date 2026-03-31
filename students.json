@@ -1,0 +1,17 @@
+{
+    "student": {
+        "rollno": 10,
+        "name": "Aditya",
+        "perc": 96
+    },
+    "student2": {
+        "rollno": 20,
+        "name": "Michel",
+        "perc": 99
+    },
+    "student3": {
+        "rollno": 30,
+        "name": "john snow",
+        "perc": 76
+    }
+}
