@@ -24,3 +24,4 @@ car2 = Car("Honda", "Civic")
 # Call methods on objects
 car1.show_details()
 car2.show_details()
+# class
