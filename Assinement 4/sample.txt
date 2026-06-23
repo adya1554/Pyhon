@@ -1,0 +1,3 @@
+Hello, this is a sample file.
+It has multiple lines.
+Each line will be printed separately.
